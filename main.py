@@ -48,4 +48,4 @@ async def power(ctx, a: float, b: float):
     result = a ** b
     await ctx.send(f'{a} в степени {b} равно {result}')
 
-bot.run("")
+bot.run("YOUR TOKEN")
